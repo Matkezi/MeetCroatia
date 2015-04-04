@@ -1,0 +1,27 @@
+<Gradovi>
+	<Grad>
+		<GradIme>Rijeka</GradIme>
+		<GradID>1</GradID>
+		<GradBrojStanovnika>128384</GradBrojStanovnika>
+		<PostanskiBroj>51000</PostanskiBroj>
+		<Povrsina>44 km2</Povrsina>
+		<OsnovniPodaci>  Osnovni podaci:
+		
+ Županija:  Primorsko-goranska
+ Broj stanovnika:  128 384
+ Površina:  44 km2
+ Dan grada:  15. lipnja</OsnovniPodaci>
+		<Zanimljivosti> Zanimljivosti:
+		
+ Prvi torpedo izrađen je u Rijeci. Projektirali i  izradili su ga Ivan Luppis, pomorski kapetan te  Robert Whitehead, engleski inženjer.
+
+ U Rijeci je prvi put u povijesti fotografiran let  puščanog zrna. Učinio je to dr. Peter Salcher.</Zanimljivosti>
+	</Grad>
+
+	<Grad>
+		<GradIme>ProbniGrad2</GradIme>
+		<GradID>2</GradID>
+		<GradBrojStanovnika>2000</GradBrojStanovnika>
+		<PostanskiBroj>51000</PostanskiBroj>
+	</Grad>
+</Gradovi>
